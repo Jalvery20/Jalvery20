@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨Creating bugs since 2019<br>  💡 JavaScript Enthusiast<br>🚀 Frontend Wizard<br>💻 Backend Alchemist<br>🎶 Music Lover<br>📚 I'm currently learning mobile dev</p>
+<p align="left">✨Creating bugs since 2019<br>  💡 JavaScript Enthusiast<br>🚀 Frontend Wizard<br>💻 Backend Alchemist<br>🎶 Music Lover</p>
 
 ###
 
